@@ -1,4 +1,4 @@
-# Hey there, I'm Ahmed (Riptide) 👋
+# Hey there, I'm Ahmed 👋
 
 **Computer Engineering Undergraduate | Indie Game Developer | Systems Builder**
 
