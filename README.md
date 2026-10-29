@@ -1,17 +1,17 @@
-# Hey there, I'm Ahmed 👋
+# Hey there 👋
 
-**Computer Engineering Undergraduate | Indie Game Developer | Systems Builder**
+**Software Developer | Game Systems Programmer**
 
-I’m a developer based in Malaysia focused on low-level logic, game architecture, and clean, responsive mechanics. Whether I’m writing Python scripts, digging into hardware-software integration for my degree, or building 2D action systems from scratch in Godot, I like figuring out how things tick under the hood and making them smooth and responsive.
+I build responsive systems, clean backend logic, and 2D game mechanics. Most of my time goes into writing Python and GDScript, experimenting with state machines, and figuring out how to make software and game feel as smooth as possible under the hood.
 
 ---
 
 ### ⚡ About Me
 
-* 🎮 **Currently Building:** A 2D Action-RPG in **Godot (GDScript)** — engineering custom movement physics, dash invincibility-frame states, variable jump buffering, coyote timing, and modular stat/skill architectures.
-* 💻 **Core Stack:** Python & GDScript (daily drivers), with roots in **C++, C#, and Java**.
-* 🧠 **What I Do:** When I'm not working on my own repositories or university engineering coursework, I always work on small projects with Python programming for algorithmic problem-solving.
-* 🌐 **Interests:** Game combat feel (hitboxes, state machines, frame data), server infrastructure, and community game revival projects.
+* 🎮 **Current Focus:** Developing 2D action-RPG mechanics in **Godot** — working on custom movement physics, state management, combat hitboxes, and modular skill systems.
+* 💻 **Languages:** Python and GDScript day-to-day, with experience in **C++, C#, and Java**.
+* 🔧 **Interests:** Game architecture, algorithmic problem-solving, tool scripting, and server infrastructure.
+
 ---
 
 ### 🛠️ Tech & Tools
