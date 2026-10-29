@@ -10,7 +10,7 @@ I’m a developer based in Malaysia focused on low-level logic, game architectur
 
 * 🎮 **Currently Building:** A 2D Action-RPG in **Godot (GDScript)** — engineering custom movement physics, dash invincibility-frame states, variable jump buffering, coyote timing, and modular stat/skill architectures.
 * 💻 **Core Stack:** Python & GDScript (daily drivers), with roots in **C++, C#, and Java**.
-* 🧠 **What I Do:** When I'm not working on my own repositories or university engineering coursework, I mentor and coach friends in Python programming and algorithmic problem-solving.
+* 🧠 **What I Do:** When I'm not working on my own repositories or university engineering coursework, I always work on small projects with Python programming for algorithmic problem-solving.
 * 🌐 **Interests:** Game combat feel (hitboxes, state machines, frame data), server infrastructure, and community game revival projects.
 * 🏋️ **Off the Screen:** Full-body strength training, competitive swimming background, and fueling late-night coding sessions with questionable amounts of sweetened condensed milk coffee.
 
