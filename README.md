@@ -12,8 +12,6 @@ I’m a developer based in Malaysia focused on low-level logic, game architectur
 * 💻 **Core Stack:** Python & GDScript (daily drivers), with roots in **C++, C#, and Java**.
 * 🧠 **What I Do:** When I'm not working on my own repositories or university engineering coursework, I always work on small projects with Python programming for algorithmic problem-solving.
 * 🌐 **Interests:** Game combat feel (hitboxes, state machines, frame data), server infrastructure, and community game revival projects.
-* 🏋️ **Off the Screen:** Full-body strength training, competitive swimming background, and fueling late-night coding sessions with questionable amounts of sweetened condensed milk coffee.
-
 ---
 
 ### 🛠️ Tech & Tools
